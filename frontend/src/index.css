@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* minimal custom styles */
+html, body, #root { height: 100%; }
+.leaflet-container { background: #fff; border-radius: 0.5rem; }
+#map { height: 60vh; min-height: 320px; }
